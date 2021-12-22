@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Vingadores: Guerra Infinita",
+		"categories": "Action, Adventure, Fantasy",
+		"duration": "2h 29min",
+		"rating": 8.8,
+		"summary": "The Avengers their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before ...",
+		"image": "avengers"
+	},
+	{
+		"title": "Deadpool 2",
+		"categories": "Action, Adventure, Comedy",
+		"duration": "1h 59min",
+		"rating": 8.1,
+		"summary": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect ...",
+		"image": "deadpool2"
+	},
+	{
+		"title": "Han Solo: Uma História Star Wars",
+		"categories": "Action, Adventure, Fantasy",
+		"duration": "2h 15min",
+		"rating": 7.2,
+		"summary": "During an adventure into the criminal underworld, Han Solo meet his future copilot Chewbaccaand encounters Lando Calrisssian ...",
+		"image": "hansolo"
+	},
+	{
+		"title": "Matrix",
+		"categories": "Action, Sci-Fi",
+		"duration": "2h 19min",
+		"rating": 8.7,
+		"summary": "A computer hacker learns from misterious rebels about the true nature of his reality and his role in the war against its controllers.",
+		"image": "matrix"
+	},
+	{
+		"title": "Jogador Nº 1",
+		"categories": "Action, Adventure, Sci-Fi",
+		"duration": "2h 20min",
+		"rating": 7.8,
+		"summary": "Where the creator of the virtual reality world called OASIS dies, he releases a video in which he challenges all OASIS users to find ...",
+		"image": "readyplayer1"
+	},
+	{
+		"title": "A Forma da Água",
+		"categories": "Action, Adventure, Sci-Fi",
+		"duration": "2h 3min",
+		"rating": 7.4,
+		"summary": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with a amphibious creatue that is being ...",
+		"image": "shapewater"
+	}
+]
